@@ -1,0 +1,96 @@
+{
+    "size": 2,
+    "limit": 2,
+    "isLastPage": false,
+    "values": [
+      {
+        "slug": "aborer",
+        "id": 22687,
+        "name": "abur",
+        "description": "Proments.",
+        "hierarchyId": "648e67e",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "DBM",
+          "id": 340,
+          "name": "Digace",
+          "description": "Diace)",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "hDBM"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "ssit",
+              "name": "ssh"
+            },
+            {
+              "href": "htr.git",
+              "name": "http"
+            }
+          ],
+          "self": [
+            {
+              "href": "htwse"
+            }
+          ]
+        }
+      },
+      {
+        "slug": "abcdef",
+        "id": 14236,
+        "name": "abcdef",
+        "hierarchyId": "38e0",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "DBM",
+          "id": 340,
+          "name": "Dilace",
+          "description": "Digketplace)",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://abcdef"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "********************",
+              "name": "http"
+            },
+            {
+              "href": "*****************",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "***************"
+            }
+          ]
+        }
+      }
+    ],
+    "start": 0,
+    "nextPageStart": 2
+  }
